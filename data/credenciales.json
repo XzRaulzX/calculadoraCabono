@@ -1,0 +1,20 @@
+{
+  "credenciales":[
+    {
+        "user":"Alvaro",
+        "pass":"Alvaro"
+
+    },
+    {
+        "user":"Raul",
+        "pass":"Raul"
+
+    },
+
+    {
+        "user":"a",
+        "pass":"a"
+
+    }
+  ]
+}
